@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Varad
+### Varad Parte
 
 Senior at University of Cincinnati: Master of Science in Computer Science with a concentration in Data Science
 
