@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Varad
 
-Currently a senior at University of Cincinnati majoring in Computer Science 
+Senior at University of Cincinnati: Master of Science in Computer Science with a concentration in Data Science
+
 <!--
 **vrparte/vrparte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
